@@ -1,0 +1,16 @@
+# Ignore image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pt
+# Ignore data files
+*.csv
+*.json
+
+# Ignore Python cache and backup files
+__pycache__/
+*.pyc
+*.pyo
+*.~ 
+.DS_Store
